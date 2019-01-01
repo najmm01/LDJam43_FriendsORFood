@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - FxTemporaire
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Bullets
+  - Enemies
+  - Hero
+  - Food
+  - Environment
+  - DungeonBounds
+  - Doors
+  - Allies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1724748061
+    locked: 0
+  - name: Characters
+    uniqueID: 1633574605
+    locked: 0
+  - name: Enemies
+    uniqueID: 2438977353
+    locked: 0
+  - name: Bullets
+    uniqueID: 1207557903
+    locked: 0
+  - name: Gun
+    uniqueID: 1672335893
+    locked: 0
+  - name: foreground
+    uniqueID: 3479814917
+    locked: 0

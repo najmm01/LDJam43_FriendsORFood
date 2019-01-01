@@ -1,0 +1,213 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Main Sprite Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings: []
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 3743da9ad451f1149abb8a48aececce3, type: 3}
+    - {fileID: 102900000, guid: 210857b6d9da1654a9aa0413a8e25636, type: 3}
+    totalSpriteSurfaceArea: 0
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 008c0540db84f7949af817fda5130743, type: 3}
+  - {fileID: 21300000, guid: 016c4b70d57f69945997dcd2189865ce, type: 3}
+  - {fileID: 21300000, guid: d58caea09b9128e4b84862e27a385ea4, type: 3}
+  - {fileID: 21300000, guid: 0db34261604dbcb458974c4624cead2a, type: 3}
+  - {fileID: 21300000, guid: 21a139913d9d7b243bf33d45af05a984, type: 3}
+  - {fileID: 21300000, guid: e0b710a19df453940b3f6b41bea3c833, type: 3}
+  - {fileID: 21300000, guid: 5454f6a1925b1c541a464852edc630e7, type: 3}
+  - {fileID: 21300000, guid: 04a625b109fc77842ae6beb5110c961d, type: 3}
+  - {fileID: 21300000, guid: b6e4a54210ea3bd4a8b5079c909d058c, type: 3}
+  - {fileID: 21300000, guid: 854a0652728e2bb42845717970a2a275, type: 3}
+  - {fileID: 21300000, guid: 4007fb52f798885489cd0e79a8bf6906, type: 3}
+  - {fileID: 21300000, guid: 7b388792a845c5b4cb202e590f5d6740, type: 3}
+  - {fileID: 21300000, guid: 0bf312a29d69aa74e90f6879b494d3b2, type: 3}
+  - {fileID: 21300000, guid: 402429a28ae5bb44ea881455142ab564, type: 3}
+  - {fileID: 21300000, guid: 789c98d25ca661940babd635e1342a41, type: 3}
+  - {fileID: 21300000, guid: a4147d03b9909a34faf6141d50fe08af, type: 3}
+  - {fileID: 21300000, guid: 6ca93523b0317c242b05932fedb07cb3, type: 3}
+  - {fileID: 21300000, guid: a2bcf923df54ffa4ba7e795955c5dc22, type: 3}
+  - {fileID: 21300000, guid: 19b6af63656ee0e4eb2891faf092039c, type: 3}
+  - {fileID: 21300000, guid: 9db030931c3afb149bfb7464a7dc7633, type: 3}
+  - {fileID: 21300000, guid: 904bd0b34c024c44e977098047403ca5, type: 3}
+  - {fileID: 21300000, guid: 01ed62d33d747c74a9e4bd14b84f1c52, type: 3}
+  - {fileID: 21300000, guid: b89ebde31dbe4ab429d3d3ef52ddd21b, type: 3}
+  - {fileID: 21300000, guid: 23843a4458b16064397fccf044737b3a, type: 3}
+  - {fileID: 21300000, guid: f1f6ca445e9682e4589c80c481d3a4ba, type: 3}
+  - {fileID: 21300000, guid: d63fb154f1fb55f4786e65f835a79c86, type: 3}
+  - {fileID: 21300000, guid: 14ea34545ed8c2e43a34337614402f52, type: 3}
+  - {fileID: 21300000, guid: 6c7f0484976fa934b8c03471c0195671, type: 3}
+  - {fileID: 21300000, guid: 9d954494709ee0044a8d29fb660b9b32, type: 3}
+  - {fileID: 21300000, guid: c03d40a4383a4a241ad27a04c664e2a9, type: 3}
+  - {fileID: 21300000, guid: 6adbaaa4e686636428370f10d9d8ac10, type: 3}
+  - {fileID: 21300000, guid: eeba0fe460719e44598ecf7cacc62ba6, type: 3}
+  - {fileID: 21300000, guid: c33f66f4fd317ea4c8640a387d608aee, type: 3}
+  - {fileID: 21300000, guid: e2ef7ff49fa45b9428552248c86adfe6, type: 3}
+  - {fileID: 21300000, guid: 48624f05b683e4a4ab1a142e40fd6971, type: 3}
+  - {fileID: 21300000, guid: 24c36875a461f9147b837289396032bb, type: 3}
+  - {fileID: 21300000, guid: 3783f195e2c8dc84cb1461fbe881e9cb, type: 3}
+  - {fileID: 21300000, guid: d03789b5b9a02b345b95930826d07d1b, type: 3}
+  - {fileID: 21300000, guid: 4c72f3c555f96274787f31379fabb6ff, type: 3}
+  - {fileID: 21300000, guid: e92c88060b2f7494696a9744fb095b5a, type: 3}
+  - {fileID: 21300000, guid: f7c98b268308d794b8148d0c2914372d, type: 3}
+  - {fileID: 21300000, guid: 3982955675c70d04296357958021976a, type: 3}
+  - {fileID: 21300000, guid: 5cfb4656ccaeeea449c5482813961a3d, type: 3}
+  - {fileID: 21300000, guid: 67ce5c668e1eda84e859f884c4b7abd9, type: 3}
+  - {fileID: 21300000, guid: 7a1cd276933f119478c68a230f5bf1f0, type: 3}
+  - {fileID: 21300000, guid: efd52886711f98a448e0ad5f60a575e2, type: 3}
+  - {fileID: 21300000, guid: 5cc9c4a6db9a74a40aaed761fc99294c, type: 3}
+  - {fileID: 21300000, guid: 410b5ea684d0e0d4388fcb55d6a18eeb, type: 3}
+  - {fileID: 21300000, guid: 9e332fb689a577e4ebf6c01d3611920d, type: 3}
+  - {fileID: 21300000, guid: 5ea458c610f584748b8ff0c648074ed1, type: 3}
+  - {fileID: 21300000, guid: 5bd23007d5e4e2b48ad7618f94328601, type: 3}
+  - {fileID: 21300000, guid: 82ff0837e2a38074bade4c5249a2039d, type: 3}
+  - {fileID: 21300000, guid: 9a92cd37e9153f449b062fd3c3b27ec8, type: 3}
+  - {fileID: 21300000, guid: 1690a0a7df0530e45a5bf8801244ac4e, type: 3}
+  - {fileID: 21300000, guid: 18a39eb748b6d664eb57f4b97b68bef3, type: 3}
+  - {fileID: 21300000, guid: 9fda52e73e6f16341b82bfe870bb2675, type: 3}
+  - {fileID: 21300000, guid: 40bb9d18f560c8945941a95a54cd5a6f, type: 3}
+  - {fileID: 21300000, guid: 9fa588d835bdf6a48b0dd41b1991828b, type: 3}
+  - {fileID: 21300000, guid: bd1978e8cde59c440a04355be1ca73ec, type: 3}
+  - {fileID: 21300000, guid: 41eb0809dc6768a4f931b99a55f72a16, type: 3}
+  - {fileID: 21300000, guid: de5cee99826efc44a94f3d63b488eca7, type: 3}
+  - {fileID: 21300000, guid: 1ac1284ac5fd3ea439195732653040ba, type: 3}
+  - {fileID: 21300000, guid: bf4ee65a4b4020d4ca434824734b90e2, type: 3}
+  - {fileID: 21300000, guid: 1a5c176a77920d84bb50c4afc9260d6c, type: 3}
+  - {fileID: 21300000, guid: 73167a6a0d5f66a408a5f8753b56962d, type: 3}
+  - {fileID: 21300000, guid: 48490e6ac2acc734b9008887d649ea3f, type: 3}
+  - {fileID: 21300000, guid: 90cdb91b8028d984b9adf63a23402f86, type: 3}
+  - {fileID: 21300000, guid: 57a2332bdc23d2f43bc92299d096704a, type: 3}
+  - {fileID: 21300000, guid: 71a5017b21396124081f983914ff431c, type: 3}
+  - {fileID: 21300000, guid: 88e9c2cbee9348748955bf1138e14485, type: 3}
+  - {fileID: 21300000, guid: 03d06f0c15f4c164aa8170f9d7fdd2ea, type: 3}
+  - {fileID: 21300000, guid: db8ec42c9f48282458fe93cfc5f48a18, type: 3}
+  - {fileID: 21300000, guid: cac3498c20047c84ab1938e357129288, type: 3}
+  - {fileID: 21300000, guid: 5ec8fc5d939ea2244985ca77a114c9d0, type: 3}
+  - {fileID: 21300000, guid: c474936d3f7aa204d8939cbe05170aa5, type: 3}
+  - {fileID: 21300000, guid: 9ab75bdd63e4a3041b1b3983f8350eb1, type: 3}
+  - {fileID: 21300000, guid: e2df671e09482894b9855f2f8e5d7dc1, type: 3}
+  - {fileID: 21300000, guid: cc4ef22e0dd148d47a34567591f07d81, type: 3}
+  - {fileID: 21300000, guid: 4c4fd74e6b1cd4d4fb1fb17183e51168, type: 3}
+  - {fileID: 21300000, guid: 7ddd505efee3a5545b49bd2c0b607cd7, type: 3}
+  - {fileID: 21300000, guid: ab8fc5beb56d62e4c86861db52551612, type: 3}
+  - {fileID: 21300000, guid: 1b8212df67e41a54b9b0b9429b132b55, type: 3}
+  - {fileID: 21300000, guid: e175d9df63ec43445bb8def7487a943b, type: 3}
+  - {fileID: 21300000, guid: 0ba35ddf078e951458f80803d6e49de1, type: 3}
+  - {fileID: 21300000, guid: aef2c2efad44e854387d1548b9844ebd, type: 3}
+  - {fileID: 21300000, guid: 0d0bfdff8cef14c448caa390944ba7ab, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - 6
+  - frame-1
+  - 31
+  - frame5
+  - s4
+  - w2
+  - frame-6
+  - 1
+  - w5
+  - w4
+  - 49
+  - frame-5
+  - 46
+  - frame-6
+  - circle-02-hit
+  - 30
+  - CFX Demo Btn Arrow
+  - CFX Demo Btn Ground
+  - frame-4
+  - 53
+  - Ludum_Dare_Logo
+  - frame2
+  - frame-2
+  - bullet3
+  - 33
+  - frame-7
+  - 56
+  - w1
+  - s6
+  - frame-8
+  - frame-8
+  - 5
+  - frame-3
+  - frame1
+  - CFX Demo Btn SlowMo H
+  - frame-4
+  - CFX Demo Btn Arrow R
+  - retry
+  - CFX Demo Btn Camera
+  - frame4
+  - CFX1 Demo Logo
+  - bazooka
+  - frame-1
+  - frame-3
+  - nurseCap
+  - frame-7
+  - CFX Demo Btn Ground H
+  - frame-1
+  - frame-2
+  - frame-1
+  - CFX2 Demo Logo
+  - 50
+  - frame-5
+  - frame6
+  - CFX3 Demo Logo
+  - 28
+  - crosshair
+  - w6
+  - sprite2
+  - s2
+  - frame-5
+  - frame-3
+  - 47
+  - 29
+  - 2
+  - 55
+  - CFX Demo Btn Camera H
+  - square-01
+  - 48
+  - frame3
+  - s5
+  - CFX4 Demo Logo
+  - s1
+  - CFX Demo Btn SlowMo
+  - CFXFree Demo Logo
+  - 3
+  - frame-6
+  - sprite1
+  - 32
+  - 4
+  - s3
+  - 54
+  - frame-2
+  - w3
+  - frame-2
+  - frame-4
+  m_Tag: Main Sprite Atlas
+  m_IsVariant: 0

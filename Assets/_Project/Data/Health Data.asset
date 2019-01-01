@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6d93e6787d143054280d950e406a78a4, type: 3}
+  m_Name: Health Data
+  m_EditorClassIdentifier: 
+  healthSprites:
+  - {fileID: 21300000, guid: 9fda52e73e6f16341b82bfe870bb2675, type: 3}
+  - {fileID: 21300000, guid: 1a5c176a77920d84bb50c4afc9260d6c, type: 3}
+  - {fileID: 21300000, guid: a4147d03b9909a34faf6141d50fe08af, type: 3}
+  - {fileID: 21300000, guid: d58caea09b9128e4b84862e27a385ea4, type: 3}
+  - {fileID: 21300000, guid: 4c4fd74e6b1cd4d4fb1fb17183e51168, type: 3}
+  - {fileID: 21300000, guid: f1f6ca445e9682e4589c80c481d3a4ba, type: 3}
+  minValue: 50
+  maxValue: 80
+  pickUpVolume: 10
+  pickUpFailedVolume: 0.25
