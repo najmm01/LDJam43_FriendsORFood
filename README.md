@@ -8,6 +8,9 @@ The game has been made using the [Unity game engine](https://unity3d.com/).
 - [Play the game on itch.io](https://najmm.itch.io/friends-or-food)
 - [Visit the game's Ludum Dare page](https://ldjam.com/events/ludum-dare/43/friends-or-food)
 
+## Disclaimer
+This project was conceived in only 3 days, followed by some bug-fixes and cleanup over the coming days, so the code isn't exactly production ready, but an indicative of how to prototype using Unity
+
 ## Keypoints
 - This game was made using Unity 2018.3
 - Most of the inbuilt Unity packages have been disabled via the __Package Manager__
