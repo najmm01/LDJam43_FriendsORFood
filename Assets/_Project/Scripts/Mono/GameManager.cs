@@ -158,7 +158,6 @@ public class GameManager : MonoBehaviour
 
     void GameOver()
     {
-        Cursor.visible = true;
         SoundManager.instance.PlayAudio("GameOverSFX", 3);
         StopAllCoroutines();
 
@@ -175,6 +174,7 @@ public class GameManager : MonoBehaviour
             }
 
             gameOverPanel.SetActive(true);
+            Cursor.visible = true;
 
         }
 

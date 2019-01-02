@@ -32,7 +32,7 @@ SpriteAtlas:
     packables:
     - {fileID: 102900000, guid: 3743da9ad451f1149abb8a48aececce3, type: 3}
     - {fileID: 102900000, guid: 210857b6d9da1654a9aa0413a8e25636, type: 3}
-    totalSpriteSurfaceArea: 13724469
+    totalSpriteSurfaceArea: 3849136
     bindAsDefault: 1
   m_MasterAtlas: {fileID: 0}
   m_PackedSprites:
@@ -50,7 +50,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 7b388792a845c5b4cb202e590f5d6740, type: 3}
   - {fileID: 21300000, guid: 0bf312a29d69aa74e90f6879b494d3b2, type: 3}
   - {fileID: 21300000, guid: 402429a28ae5bb44ea881455142ab564, type: 3}
-  - {fileID: 21300000, guid: 789c98d25ca661940babd635e1342a41, type: 3}
   - {fileID: 21300000, guid: a4147d03b9909a34faf6141d50fe08af, type: 3}
   - {fileID: 21300000, guid: 6ca93523b0317c242b05932fedb07cb3, type: 3}
   - {fileID: 21300000, guid: a2bcf923df54ffa4ba7e795955c5dc22, type: 3}
@@ -103,7 +102,6 @@ SpriteAtlas:
   - {fileID: 21300000, guid: 73167a6a0d5f66a408a5f8753b56962d, type: 3}
   - {fileID: 21300000, guid: 48490e6ac2acc734b9008887d649ea3f, type: 3}
   - {fileID: 21300000, guid: 90cdb91b8028d984b9adf63a23402f86, type: 3}
-  - {fileID: 21300000, guid: 57a2332bdc23d2f43bc92299d096704a, type: 3}
   - {fileID: 21300000, guid: 71a5017b21396124081f983914ff431c, type: 3}
   - {fileID: 21300000, guid: 88e9c2cbee9348748955bf1138e14485, type: 3}
   - {fileID: 21300000, guid: 03d06f0c15f4c164aa8170f9d7fdd2ea, type: 3}
@@ -137,7 +135,6 @@ SpriteAtlas:
   - frame-5
   - 46
   - frame-6
-  - circle-02-hit
   - 30
   - CFX Demo Btn Arrow
   - CFX Demo Btn Ground
@@ -190,7 +187,6 @@ SpriteAtlas:
   - 2
   - 55
   - CFX Demo Btn Camera H
-  - square-01
   - 48
   - frame3
   - s5

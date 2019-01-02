@@ -18,5 +18,5 @@ MonoBehaviour:
   maxHealth: 3
   bulletDamage: 1
   hitVolume: 0.2
-  deathVolume: 0.4
+  deathVolume: 0.25
   humanHitVolume: 0.3
