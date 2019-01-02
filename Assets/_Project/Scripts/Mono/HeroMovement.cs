@@ -38,7 +38,7 @@ public class HeroMovement : ChainMember
 
     void Move()
     {
-         //if hero is near edges or there was movement, don't do anything
+         //if hero is near edges or there wasn't any movement, don't do anything
         if (NearEdges() || (_xValue == 0 && _yValue == 0))
         {
             _animator.SetTrigger("Steady");
