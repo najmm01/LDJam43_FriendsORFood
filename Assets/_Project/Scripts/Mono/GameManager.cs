@@ -3,11 +3,6 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-enum ZombieState
-{
-    Seeking, Idle
-}
-
 public class GameManager : MonoBehaviour
 {
     public GameObject[] enemyTypes;
